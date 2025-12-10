@@ -1,0 +1,18 @@
+.admin-container {
+  padding: 20px;
+}
+
+.admin-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.admin-panel-box {
+  padding: 15px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.admin-info-text {
+  font-size: 16px;
+}

@@ -1,0 +1,21 @@
+.success-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.success-title {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.success-id {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.success-btn {
+  padding: 12px 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}

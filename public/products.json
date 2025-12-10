@@ -1,0 +1,843 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung Pixel 8",
+    "description": "Compact Samsung Pixel 8 \u2014 a feature-rich smartphones device with excellent performance.",
+    "price": 83308,
+    "brand": "Samsung",
+    "category": "smartphones",
+    "discountPercentage": 6,
+    "rating": 3.5,
+    "stock": 109,
+    "thumbnail": "/images/products/samsung-2.jpg",
+    "images": [
+      "/images/products/samsung-2.jpg",
+      "/images/products/samsung-1.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Perfect for daily use.",
+        "date": "2025-05-11"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "date": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Belkin Docking Station",
+    "description": "Wireless Belkin Docking Station \u2014 a feature-rich accessories device with excellent performance.",
+    "price": 7333,
+    "brand": "Belkin",
+    "category": "accessories",
+    "discountPercentage": 1,
+    "rating": 4.0,
+    "stock": 103,
+    "thumbnail": "/images/products/belkin-1.jpg",
+    "images": [
+      "/images/products/belkin-1.jpg",
+      "/images/products/belkin-1.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Exceeded expectations.",
+        "date": "2025-08-03"
+      },
+      {
+        "rating": 4,
+        "comment": "Sound quality is amazing.",
+        "date": "2024-09-02"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Fitbit ColorFit Pro",
+    "description": "Fitbit ColorFit Pro \u2014 a feature-rich smartwatches device with excellent performance.",
+    "price": 23618,
+    "brand": "Fitbit",
+    "category": "smartwatches",
+    "discountPercentage": 16,
+    "rating": 4.1,
+    "stock": 87,
+    "thumbnail": "/images/products/fitbit-2.jpg",
+    "images": [
+      "images/products/fitbit-1.jpg",
+      "/images/products/fitbit-2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good device overall.",
+        "date": "2024-06-13"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded expectations.",
+        "date": "2025-07-03"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sennheiser HD 560S",
+    "description": "Powerful Sennheiser HD 560S \u2014 a feature-rich headphones device with excellent performance.",
+    "price": 9227,
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "discountPercentage": 23,
+    "rating": 4.3,
+    "stock": 23,
+    "thumbnail": "/images/products/senheiser-1.jpg",
+    "images": [
+      "/images/products/senheiser-1.jpg",
+      "/images/products/senheiser-2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Exceeded expectations.",
+        "date": "2024-10-16"
+      },
+      {
+        "rating": 3,
+        "comment": "Build quality feels premium.",
+        "date": "2025-06-19"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Boat BoomBox",
+    "description": "Boat BoomBox \u2014 a feature-rich speakers device with excellent performance.",
+    "price": 13724,
+    "brand": "Boat",
+    "category": "speakers",
+    "discountPercentage": 6,
+    "rating": 4.3,
+    "stock": 70,
+    "thumbnail": "/images/products/boat1.jpg",
+    "images": [
+      "/images/products/boat1.jpg",
+      "/images/products/boat2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2024-10-13"
+      },
+      {
+        "rating": 5,
+        "comment": "Battery life is excellent.",
+        "date": "2024-11-13"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Sony QLED 4K",
+    "description": "Sony QLED 4K \u2014 a feature-rich tvs device with excellent performance.",
+    "price": 121218,
+    "brand": "Sony",
+    "category": "tvs",
+    "discountPercentage": 20,
+    "rating": 4.3,
+    "stock": 61,
+    "thumbnail": "/images/products/sony1.jpg",
+    "images": [
+      "/images/products/sony1.jpg",
+      "/images/products/sony2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good device overall.",
+        "date": "2025-07-20"
+      },
+      {
+        "rating": 5,
+        "comment": "Perfect for daily use.",
+        "date": "2025-01-22"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "ASUS ROG Strix",
+    "description": "ASUS ROG Strix \u2014 a feature-rich laptops device with excellent performance.",
+    "price": 101252,
+    "brand": "ASUS",
+    "category": "laptops",
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "stock": 32,
+    "thumbnail": "/images/products/strix1.jpg",
+    "images": [
+      "/images/products/strix1.jpg",
+      "/images/products/strix2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Sound quality is amazing.",
+        "date": "2025-01-06"
+      },
+      {
+        "rating": 4,
+        "comment": "Good device overall.",
+        "date": "2024-07-21"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Boat Home Speaker",
+    "description": "Next-gen Boat Home Speaker \u2014 a feature-rich speakers device with excellent performance.",
+    "price": 6415,
+    "brand": "Boat",
+    "category": "speakers",
+    "discountPercentage": 13,
+    "rating": 4.6,
+    "stock": 111,
+    "thumbnail": "/images/products/boat1.jpg",
+    "images": [
+      "/images/products/boat1.jpg",
+      "/images/products/boat2.jpg"
+      
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Battery life is excellent.",
+        "date": "2025-04-07"
+      },
+      {
+        "rating": 4,
+        "comment": "Perfect for daily use.",
+        "date": "2025-06-24"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Belkin MX Master 3",
+    "description": "Compact Belkin MX Master 3 \u2014 a feature-rich accessories device with excellent performance.",
+    "price": 2977,
+    "brand": "Belkin",
+    "category": "accessories",
+    "discountPercentage": 15,
+    "rating": 4.1,
+    "stock": 2,
+    "thumbnail": "/images/products/master1.jpg",
+    "images": [
+      "/images/products/master1.jpg",
+      "/images/products/master2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Fantastic performance and value.",
+        "date": "2024-08-24"
+      },
+      {
+        "rating": 3,
+        "comment": "Perfect for daily use.",
+        "date": "2025-05-16"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Portronics USB-C Hub",
+    "description": "Next-gen Portronics USB-C Hub \u2014 a feature-rich accessories device with excellent performance.",
+    "price": 7418,
+    "brand": "Portronics",
+    "category": "accessories",
+    "discountPercentage": 16,
+    "rating": 3.7,
+    "stock": 90,
+    "thumbnail": "/images/products/potronics1.jpg",
+    "images": [
+      "/images/products/potronics1.jpg",
+      "/images/products/potronics2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2025-01-07"
+      },
+      {
+        "rating": 4,
+        "comment": "Great display, but a bit pricey.",
+        "date": "2024-08-27"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Asus ROG ",
+    "description": "Asus ROG \u2014 a feature-rich gaming device with excellent performance.",
+    "price": 58232,
+    "brand": "Sony",
+    "category": "gaming",
+    "discountPercentage": 17,
+    "rating": 4.3,
+    "stock": 22,
+    "thumbnail": "/images/products/ROG1.jpg",
+    "images": [
+      "/images/products/ROG1.jpg",
+      "/images/products/ROG2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2024-09-04"
+      },
+      {
+        "rating": 4,
+        "comment": "Great display, but a bit pricey.",
+        "date": "2025-11-09"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Fitbit ColorFit Pro",
+    "description": "Fitbit ColorFit Pro \u2014 a feature-rich smartwatches device with excellent performance.",
+    "price": 28623,
+    "brand": "Fitbit",
+    "category": "smartwatches",
+    "discountPercentage": 21,
+    "rating": 4.0,
+    "stock": 85,
+    "thumbnail":"/images/products/band1.jpg",
+
+    "images": [
+     "/images/products/band1.jpg",
+      "/images/products/band2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very smooth performance.",
+        "date": "2025-06-16"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Lenovo PlayStation 5",
+    "description": "Lenovo PlayStation 5 \u2014 a feature-rich gaming device with excellent performance.",
+    "price": 28755,
+    "brand": "Lenovo",
+    "category": "gaming",
+    "discountPercentage": 25,
+    "rating": 4.0,
+    "stock": 31,
+    "thumbnail": "/images/products/ps5-1.jpg",
+    "images": [
+      "/images/products/ps5-1.jpg",
+     "/images/products/ps5-2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good device overall.",
+        "date": "2025-01-22"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded expectations.",
+        "date": "2025-04-06"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Belkin PowerCore 10000",
+    "description": "Portable Belkin PowerCore 10000 \u2014 a feature-rich accessories device with excellent performance.",
+    "price": 2466,
+    "brand": "Belkin",
+    "category": "accessories",
+    "discountPercentage": 11,
+    "rating": 4.6,
+    "stock": 9,
+    "thumbnail": "/images/products/power1.jpg",
+    "images": [
+      "/images/products/power1.jpg",
+      "/images/products/power2.jpg"    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Battery life is excellent.",
+        "date": "2025-04-15"
+      },
+      {
+        "rating": 4,
+        "comment": "Good device overall.",
+        "date": "2024-09-06"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Samsung Mi 11",
+    "description": "High-Performance Samsung Mi 11 \u2014 a feature-rich smartphones device with excellent performance.",
+    "price": 31867,
+    "brand": "Samsung",
+    "category": "smartphones",
+    "discountPercentage": 13,
+    "rating": 3.7,
+    "stock": 69,
+    "thumbnail": "/images/products/samsung1.jpg",
+    "images": [
+      "/images/products/samsung1.jpg",
+      "/images/products/samsung2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Fantastic performance and value.",
+        "date": "2024-12-06"
+      },
+      {
+        "rating": 3,
+        "comment": "Very smooth performance.",
+        "date": "2024-07-14"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "BenQ ROG Swift",
+    "description": "Next-gen BenQ ROG Swift \u2014 a feature-rich monitors device with excellent performance.",
+    "price": 39790,
+    "brand": "BenQ",
+    "category": "monitors",
+    "discountPercentage": 16,
+    "rating": 4.6,
+    "stock": 105,
+    "thumbnail": "/images/products/benq1.jpg",
+    "images": [
+      "images/products/benq1.jpg",
+      "/images/products/benq2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Fantastic performance and value.",
+        "date": "2025-04-25"
+      },
+      {
+        "rating": 5,
+        "comment": "Build quality feels premium.",
+        "date": "2024-09-30"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Garmin ColorFit Pro",
+    "description": "Portable Garmin ColorFit Pro \u2014 a feature-rich smartwatches device with excellent performance.",
+    "price": 53592,
+    "brand": "Garmin",
+    "category": "smartwatches",
+    "discountPercentage": 15,
+    "rating": 4.4,
+    "stock": 29,
+    "thumbnail": "/images/products/garmin1.jpg",
+    "images": [
+      "/images/products/garmin1.jpg",
+      "/images/products/garmin2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Sound quality is amazing.",
+        "date": "2025-05-01"
+      },
+      {
+        "rating": 4,
+        "comment": "Good device overall.",
+        "date": "2025-04-13"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Microsoft ROG Strix",
+    "description": "Lightweight Microsoft ROG Strix \u2014 a feature-rich gaming device with excellent performance.",
+    "price": 26847,
+    "brand": "Microsoft",
+    "category": "gaming",
+    "discountPercentage": 13,
+    "rating": 4.1,
+    "stock": 95,
+    "thumbnail": "/images/products/ms1.jpg",
+    "images": [
+      "/images/products/ms1.jpg",
+      "/images/products/ms2.jpg"
+      
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good device overall.",
+        "date": "2025-02-15"
+      },
+      {
+        "rating": 3,
+        "comment": "Fantastic performance and value.",
+        "date": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Fitbit Galaxy Watch6",
+    "description": "Fitbit Galaxy Watch6 \u2014 a feature-rich smartwatches device with excellent performance.",
+    "price": 18533,
+    "brand": "Fitbit",
+    "category": "smartwatches",
+    "discountPercentage": 5,
+    "rating": 5.0,
+    "stock": 119,
+    "thumbnail": "/images/products/galaxy1.jpg",
+    "images": [
+      "/images/products/galaxy1.jpg",
+      "/images/products/galaxy2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Perfect for daily use.",
+        "date": "2024-10-20"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "date": "2025-05-13"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Apple 17",
+    "description": "Advanced Apple 17 \u2014 a feature-rich smartphones device with excellent performance.",
+    "price": 74843,
+    "brand": "Apple",
+    "category": "smartphones",
+    "discountPercentage": 13,
+    "rating": 4.5,
+    "stock": 61,
+    "thumbnail": "/images/products/apple1.jpg",
+    "images": [
+      "/images/products/apple1.jpg",
+      "/images/products/apple1.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Build quality feels premium.",
+        "date": "2024-11-10"
+      },
+      {
+        "rating": 3,
+        "comment": "Fantastic performance and value.",
+        "date": "2025-10-21"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": " Apple watch Pro",
+    "description": "Apple watch Pro \u2014 a feature-rich smartwatches device with excellent performance.",
+    "price": 12824,
+    "brand": "Apple",
+    "category": "smartwatches",
+    "discountPercentage": 7,
+    "rating": 4.4,
+    "stock": 24,
+    "thumbnail": "/images/products/AppleWatch1.jpg",
+    "images": [
+      "/images/products/AppleWatch1.jpg",
+      "/images/products/AppleWatch2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Exceeded expectations.",
+        "date": "2025-03-19"
+      },
+      {
+        "rating": 3,
+        "comment": "Fantastic performance and value.",
+        "date": "2025-01-03"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "xiaomi powerbank 10000",
+    "description": "Powerful xiaomi PowerCore 10000 \u2014 a feature-rich accessories device with excellent performance.",
+    "price": 5396,
+    "brand": "Xiaomi",
+    "category": "accessories",
+    "discountPercentage": 3,
+    "rating": 4.3,
+    "stock": 70,
+    "thumbnail": "/images/products/Xiaomi1.jpg",
+    "images": [
+      "/images/products/Xiaomi1.jpg",
+      "/images/products/Xiaomi2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2025-01-03"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "date": "2025-07-01"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "RING",
+    "description": "Premium Smart Ring\u2014 a feature-rich accessories device with excellent performance.",
+    "price": 5406,
+    "brand": "Samsung",
+    "category": "accessories",
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 50,
+    "thumbnail": "/images/products/ring1.jpg",
+    "images": [
+       "/images/products/ring1.jpg", 
+        "/images/products/ring2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "date": "2025-06-07"
+      },
+      {
+        "rating": 4,
+        "comment": "Build quality feels premium.",
+        "date": "2024-10-25"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Samsung Odyssey G9",
+    "description": "Advanced Samsung Odyssey G9 \u2014 a feature-rich monitors device with excellent performance.",
+    "price": 47050,
+    "brand": "Samsung",
+    "category": "monitors",
+    "discountPercentage": 19,
+    "rating": 4.0,
+    "stock": 44,
+    "thumbnail": "/images/products/odyssey1.jpg",
+    "images": [
+    "/images/products/odyssey1.jpg",
+    "/images/products/odyssey2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good device overall.",
+        "date": "2025-09-23"
+      },
+      {
+        "rating": 3,
+        "comment": "Very smooth performance.",
+        "date": "2024-09-01"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "MacBook Air",
+    "description": "MacBook Air \u2014 a feature-rich laptops device with excellent performance.",
+    "price": 28995,
+    "brand": "Apple",
+    "category": "laptops",
+    "discountPercentage": 13,
+    "rating": 3.9,
+    "stock": 21,
+    "thumbnail": "/images/products/macbook1.jpg",
+    "images": [
+      "/images/products/macbook1.jpg",
+      "/images/products/macbook1.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Build quality feels premium.",
+        "date": "2025-04-24"
+      },
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2025-04-08"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Apple 14 Pro",
+    "description": "Apple 14 Pro \u2014 a feature-rich smartphones device with excellent performance.",
+    "price": 45266,
+    "brand": "Apple",
+    "category": "smartphones",
+    "discountPercentage": 13,
+    "rating": 4.7,
+    "stock": 107,
+    "thumbnail": "/images/products/14pro1.jpg",
+    "images": [
+      "/images/products/14pro1.jpg",
+      "/images/products/14pro2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Build quality feels premium.",
+        "date": "2024-07-09"
+      },
+      {
+        "rating": 5,
+        "comment": "Battery life is excellent.",
+        "date": "2025-08-01"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Sonos BoomBox",
+    "description": "Sonos BoomBox \u2014 a feature-rich speakers device with excellent performance.",
+    "price": 40185,
+    "brand": "Sonos",
+    "category": "speakers",
+    "discountPercentage": 10,
+    "rating": 3.7,
+    "stock": 103,
+    "thumbnail": "/images/products/sonos1.jpg",
+    "images": [
+      "/images/products/sonos1.jpg",
+      "/images/products/sonos2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great display, but a bit pricey.",
+        "date": "2025-01-08"
+      },
+      {
+        "rating": 5,
+        "comment": "Build quality feels premium.",
+        "date": "2025-06-15"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Sony Switch OLED",
+    "description": "Sony Switch OLED \u2014 a feature-rich gaming device with excellent performance.",
+    "price": 36114,
+    "brand": "Sony",
+    "category": "gaming",
+    "discountPercentage": 1,
+    "rating": 4.8,
+    "stock": 19,
+    "thumbnail": "/images/products/switch1.jpg",
+    "images": [
+      "/images/products/switch1.jpg",
+      "/images/products/switch2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Sound quality is amazing.",
+        "date": "2025-03-13"
+      },
+      {
+        "rating": 3,
+        "comment": "Great display, but a bit pricey.",
+        "date": "2024-08-25"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "TCL P-Series",
+    "description": "TCL P-Series \u2014 a feature-rich tvs device with excellent performance.",
+    "price": 154162,
+    "brand": "TCL",
+    "category": "tvs",
+    "discountPercentage": 17,
+    "rating": 3.7,
+    "stock": 110,
+    "thumbnail": "/images/products/tcl1.jpg",
+    "images": [
+      "/images/products/tcl1.jpg",
+      "/images/products/tcl2.jpg"    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very smooth performance.",
+        "date": "2025-11-16"
+      },
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2025-10-12"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Anker Docking Station",
+    "description": "Anker Docking Station \u2014 a feature-rich accessories device with excellent performance.",
+    "price": 9305,
+    "brand": "Anker",
+    "category": "accessories",
+    "discountPercentage": 6,
+    "rating": 3.7,
+    "stock": 7,
+    "thumbnail": "/images/products/anker1.jpg",
+    "images": [
+      "/images/products/anker1.jpg",
+      "/images/products/anker2.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Exceeded expectations.",
+        "date": "2024-09-25"
+      },
+      {
+        "rating": 4,
+        "comment": "Battery life is excellent.",
+        "date": "2025-10-06"
+      }
+    ]
+  }
+]

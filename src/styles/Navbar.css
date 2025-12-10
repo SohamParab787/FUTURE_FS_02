@@ -1,0 +1,36 @@
+.main-navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #343a40; 
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #222;
+  z-index: 1000;
+}
+
+.cart-badge {
+  font-size: 12px;
+  padding: 4px 6px;
+}
+
+.cart-link {
+  font-weight: bold;
+  color: #212529;
+  position: relative;
+}
+
+.cart-link:hover {
+  color: #ffc107; /* bootstrap warning color */
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  color: #ffc107;
+}
+
+.navbar-brand:hover {
+  color: #fff3cd;
+}
